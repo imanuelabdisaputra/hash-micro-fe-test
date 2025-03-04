@@ -48,7 +48,7 @@ export const columns: ColumnDef<Payment>[] = [
               navigateTo(`/user/${row.original.id}`);
             },
           },
-          () => 'Read'
+          () => 'View'
         ),
         h(
           Button,

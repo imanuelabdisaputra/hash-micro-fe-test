@@ -40,10 +40,10 @@
     </AlertDialogTrigger>
     <AlertDialogContent>
       <AlertDialogHeader>
-        <AlertDialogTitle> You want to delete this account? </AlertDialogTitle>
+        <AlertDialogTitle> You want to delete this user? </AlertDialogTitle>
         <AlertDialogDescription>
           This action cannot be undone. This will permanently delete this
-          account.
+          user.
         </AlertDialogDescription>
       </AlertDialogHeader>
       <AlertDialogFooter>
